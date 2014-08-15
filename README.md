@@ -1,4 +1,4 @@
-# Bare-bone mcash MAPI client in common lisp.
+# Basic mcash MAPI client in common lisp.
 
 Depends on several other packages, most of them can be obtained through
 Quicklisp. cl-rsasign is available at: https://github.com/mandus/cl-rsasign
