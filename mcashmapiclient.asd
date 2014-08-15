@@ -18,4 +18,5 @@
     :serial t
     :components
     ((:file "package")
-      (:file "mcashmapiclient")))))
+     (:file "mcashmapiclient")
+     (:file "utils")))))
